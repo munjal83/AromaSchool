@@ -1,6 +1,6 @@
 body {
 	
-	color: white;
+	color: black;
 }
 
 .navbar {
@@ -8,7 +8,6 @@ body {
   padding-bottom: 0px;
   margin-bottom: 0px;
  
-
   background: -webkit-linear-gradient(90deg, #1e130c 10%, #9a8478 90%); /* Chrome 10+, Saf5.1+ */
   background:    -moz-linear-gradient(90deg, #1e130c 10%, #9a8478 90%); /* FF3.6+ */
   background:     -ms-linear-gradient(90deg, #1e130c 10%, #9a8478 90%); /* IE10 */
@@ -19,4 +18,20 @@ body {
 	
 	margin-left: 125px;
 
+}
+
+.message {
+  
+  width = 500px;
+
+}
+
+.buffer {
+
+  height: 50px;
+}
+
+ul li {
+
+  list-style: none;
 }
